@@ -4,7 +4,7 @@ This project implements a timer using an Arduino, a 4-digit 7-segment display, 2
 
 ## Hardware
 
-There is a Fritzing project under the Hardware directory which has a schematic and breadboard layout for the hardware.
+There is a Fritzing project under the Hardware directory which has a schematic and breadboard layout for the hardware. Additionally exported image files are available.
 
 ## Software
 
